@@ -262,8 +262,8 @@
 | Day | Topic | Status | Notes |
 |-----|-------|--------|-------|
 | 1 | Vectors, matrices, dot product | `[x]` | Completed |
-| 2 | Eigenvalues, SVD, PCA | `[~]` | In progress |
-| 3 | NumPy matrix ops | `[ ]` | |
+| 2 | Eigenvalues, SVD, PCA | `[x]` | Completed |
+| 3 | NumPy matrix ops | `[~]` | In progress |
 | 4 | Derivatives & partial derivatives | `[ ]` | |
 | 5 | Chain rule & backprop | `[ ]` | |
 | 6 | Gradient descent from scratch | `[ ]` | |
@@ -299,7 +299,8 @@
 | Date | Milestone | Notes |
 |------|-----------|-------|
 | 2026-04-05 | Started AI learning journey | Day 1 complete |
-| 2026-04-05 | Day 2 in progress | Eigenvalues, SVD, PCA |
+| 2026-04-05 | Day 2 complete | Eigenvalues, SVD, PCA, LoRA deep dive |
+| 2026-04-05 | Day 3 in progress | NumPy matrix ops |
 
 ---
 
