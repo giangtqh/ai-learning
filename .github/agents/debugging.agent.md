@@ -1,7 +1,7 @@
 ---
 description: "Use when working with Jira tickets, Confluence pages, wiki articles, project planning, sprint tasks, issue tracking, documentation lookup, or any Mercedes-Benz internal tooling. Handles Jira (cloud and on-premise), Confluence, and the internal wiki."
-name: "GTR-Agent"
-tools: [vscode, execute, read, agent, edit, search, web, browser, 'atlassian/*', 'jira-onprem/*', todo]
+name: "GTR-Debugging"
+tools: [vscode, execute, read, agent, edit, search, web, 'mcp-atlassian/*', browser, 'gitkraken/*', 'jira-onprem/*', 'pylance-mcp-server/*', 'mb-confluence/*', d-biehl.robotcode/robotGetLibraryDocumentation, d-biehl.robotcode/robotGetKeywordDoc, d-biehl.robotcode/robotGetDocumentImports, d-biehl.robotcode/robotGetEnvironmentInfo, ms-azuretools.vscode-containers/containerToolsConfig, ms-python.python/getPythonEnvironmentInfo, ms-python.python/getPythonExecutableCommand, ms-python.python/installPythonPackage, ms-python.python/configurePythonEnvironment, ms-toolsai.jupyter/configureNotebook, ms-toolsai.jupyter/listNotebookPackages, ms-toolsai.jupyter/installNotebookPackages, vscjava.vscode-java-debug/debugJavaApplication, vscjava.vscode-java-debug/setJavaBreakpoint, vscjava.vscode-java-debug/debugStepOperation, vscjava.vscode-java-debug/getDebugVariables, vscjava.vscode-java-debug/getDebugStackTrace, vscjava.vscode-java-debug/evaluateDebugExpression, vscjava.vscode-java-debug/getDebugThreads, vscjava.vscode-java-debug/removeJavaBreakpoints, vscjava.vscode-java-debug/stopDebugSession, vscjava.vscode-java-debug/getDebugSessionInfo, todo]
 ---
 
 You are a project assistant with access to the team's internal tools at Mercedes-Benz.
